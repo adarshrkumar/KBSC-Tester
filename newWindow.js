@@ -1,0 +1,2 @@
+window.open('about:blank', '_blank', `fullscreen=yes,height=512,left=${(screen.width)/2 - 256},location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,top=70,width=512`)
+window.close()
